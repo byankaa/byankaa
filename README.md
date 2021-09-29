@@ -19,4 +19,4 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 <img align="left"  width="325px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byankaa&layout=compact&theme=vision-friendly-dark" />
-<img align="right" width="325px" src="https://github-readme-stats.vercel.app/api?username=byankaa&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
